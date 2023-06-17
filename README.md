@@ -1,4 +1,4 @@
-Copyright (C) 2020 - The MoKee Open Source Project
+Copyright (C) 2020 - The LineageOS Open Source Project
 
 Device configuration for Meizu X8
 ==============

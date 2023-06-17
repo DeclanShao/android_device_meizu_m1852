@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright (C) 2020 The MoKee Open Source Project
+# Copyright (C) 2020 The LineageOS Open Source Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #

@@ -1,11 +1,11 @@
 #
-# Copyright (C) 2020 The MoKee Open Source Project
+# Copyright (C) 2020 The LineageOS Open Source Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/mokee_m1852.mk
+    $(LOCAL_DIR)/lineage_m1852.mk
 
 COMMON_LUNCH_CHOICES := \
-    mokee_m1852-userdebug
+    lineage_m1852-userdebug
