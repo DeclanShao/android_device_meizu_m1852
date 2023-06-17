@@ -25,9 +25,6 @@ $(call inherit-product, device/meizu/m1852/device.mk)
 # Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.mk.maintainer=XiNGRZ
-
 PRODUCT_NAME := lineage_m1852
 PRODUCT_BRAND := Meizu
 PRODUCT_DEVICE := m1852
